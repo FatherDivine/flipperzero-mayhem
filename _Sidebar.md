@@ -5,7 +5,7 @@
 * [First steps](First-steps)
 * [Features](Features)
 * [Versions](Versions)
-* [Flipper faps](Flipper-faps)
+* Flipper faps
    * [Marauder](Marauder)
    * [Camera](Camera)
    * [Motion detection](Motion-detection)
