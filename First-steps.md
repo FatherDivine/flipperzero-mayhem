@@ -1,3 +1,25 @@
+To set up your Flipper Zero and the module firmware, simply follow [https://flipper.ried.cl/webinstaller](https://flipper.ried.cl/webinstaller/).
+
+This will give you access to the following features:
+
+- The Marauder firmware, which is a portable penetration testing tool created for Wi-Fi and Bluetooth analysis. The firmware also includes Micro-SD functionality, allowing you to dump pcap files
+- Camera (2MP jpeg) and flashlight, accessed through the ESP32CAM Marauder app
+- Gameboy-camera style (low res 128x64 bmp) with preview on the Flipper Zero
+- QR code reader
+- Motion detection
+
+Depending on your Flipper Zero firmware, you also need other .fap apps for:
+
+- NRF24 for sniffing and mousejacking
+- Other sensors (i.e. temperature/humidity/distance)
+
+Check also:
+
+- [Marauder](https://github.com/justcallmekoko/ESP32Marauder)
+- [flipperzero-camera](https://github.com/Z4urce/flipperzero-camera)
+
+# About the camera
+
 If the camera is not connected, you should lift the plastic tab on the ESP32CAM board, and slide the camera flat cable as show below:
 ![image](https://user-images.githubusercontent.com/1091420/220083851-cf85147a-3890-43d9-a3cf-b954190847e1.png)
 
@@ -6,6 +28,8 @@ You can use the electronic components as a guide how deep you should set the con
 ![image](https://user-images.githubusercontent.com/1091420/220084163-56ceb266-47a0-4e5b-be3f-5b908d7cd519.png)
 
 It is a good idea to add a piece of double side tape and secure the camera so it does not dangle. 
+
+# Firmware update
 
 If you ever need to upload the firmware to the ESP32, you need to remember that you need to short IO0 and GND while pressing the reset button that is on the back of the ESP32. An easy way to do this is to place a pen with a metallic tip between those pins:
 
