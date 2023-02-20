@@ -3,7 +3,6 @@
 [**How to collaborate**](How-to-collaborate)
 ## User manual
 * [First steps](First-steps)
-* [Intended use and legality](Intended-use-and-legality)
 * [Features](Features)
 * [Versions](Versions)
 * [Flipper faps](Flipper-faps)
