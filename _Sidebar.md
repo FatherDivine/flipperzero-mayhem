@@ -5,6 +5,7 @@
 * [First steps](First-steps)
 * [Features](Features)
 * [Versions](Versions)
+* [Known issues](Known-issues)
 * Flipper faps
    * [Marauder](Marauder)
    * [Camera](Camera)
