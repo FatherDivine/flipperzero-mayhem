@@ -1,4 +1,4 @@
-There ain't no such thing as a [free lunch](https://en.wikipedia.org/wiki/There_ain%27t_no_such_thing_as_a_free_lunch). If you want a better portapack, there is no better way to get it than collaborating.
+There ain't no such thing as a [free lunch](https://en.wikipedia.org/wiki/There_ain%27t_no_such_thing_as_a_free_lunch). If you want a better product, there is no better way to get it than collaborating.
 
 # Write documentation
 
@@ -18,7 +18,7 @@ So, setup the environment and compile the code as instructed below. Modify somet
 
 ### Fork the repository
 1. Download and install [Github desktop](https://desktop.github.com/)
-2. Log to Github, open the [repository](https://github.com/eried/portapack-mayhem) and click **Fork** on the top right
+2. Log to Github, open the [repository](https://github.com/eried/flipperzero-mayhem) and click **Fork** on the top right
 3. In your Fork, Click **Clone** and **Open in Desktop**
 4. Follow the rest of instructions in Github desktop
 
