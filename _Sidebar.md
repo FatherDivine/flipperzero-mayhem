@@ -3,6 +3,7 @@
 [**How to collaborate**](How-to-collaborate)
 ## User manual
 * [First steps](First-steps)
+* [Assembly](Assembly)
 * [Features](Features)
 * [Versions](Versions)
 * [Known issues](Known-issues)
