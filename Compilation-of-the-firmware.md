@@ -1,4 +1,4 @@
-You need to install the board following this [instructions](https://github.com/espressif/esp32-camera). Open `flipperzero-mayhem/esp32cam_marauder/esp32cam_marauder.ino` in Arduino IDE and compile it normally. 
+You need to install the board following this [instructions](https://github.com/espressif/esp32-camera). Open `flipperzero-mayhem/esp32cam_marauder/esp32cam_marauder.ino` in Arduino IDE and compile it normally. Since this is a fork of marauder, you may get and error about `multiple definition of 'ieee80211_raw_frame_sanity_check'`, check the solution [here](https://github.com/justcallmekoko/ESP32Marauder/wiki/faq#multiple-definition-of-ieee80211_raw_frame_sanity_check).
 
 ## Required libraries
 
