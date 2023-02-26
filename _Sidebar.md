@@ -7,7 +7,7 @@
 * [Features](Features)
 * [Versions](Versions)
 * [Known issues](Known-issues)
-* [Flipper faps](Flipper faps)
+* [Flipper faps](Flipper-faps)
    * [Marauder](Marauder)
    * [Camera](Camera)
    * [Motion detection](Motion-detection)
