@@ -10,7 +10,7 @@ You may need to [compile the fap files](wiki/Compilation-of-the-faps) for your f
 
 The differences in firmwares, make the fap files not fully portables.
 
-## The apps seem to not communicate with the ESP32
+## The apps are not talking with the ESP32
 
 If you can open the faps, but it seems nothing works, then you should investigate with a serial monitor (as shown in the video on top of this page). Connect the Flipper Zero to your computer and open [_GPIO/USB-UART bridge_](Compilation-of-the-firmware#flipper-zero). Open the serial monitor to the port of the Flipper Zero (for example the monitor on Arduino IDE). Reset the ESP32 and read the messages, you might need to change the bauds:
 
