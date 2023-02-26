@@ -6,7 +6,9 @@ For general troubleshooting, uploading the firmware from Arduino IDE, check this
 
 ## The Flipper apps, faps do not run
 
-You need to [compile the fap files](wiki/Compilation-of-the-faps) for your firmware. The provided fap files are intended for the unleashed firmware (usually the latest release).
+You may need to [compile the fap files](wiki/Compilation-of-the-faps) for your firmware. The provided fap files are intended to be used with the unleashed firmware (usually the latest release).
+
+The differences in firmwares, make the fap files not fully portables.
 
 ## The apps seem to not communicate with the ESP32
 
