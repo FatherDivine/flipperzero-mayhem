@@ -23,3 +23,5 @@ Check [esp32cam_marauder.ino](https://github.com/eried/flipperzero-mayhem/blob/m
     furi_delay_ms(500); 
     furi_hal_uart_tx(FuriHalUartIdUSART1, (uint8_t[1]){'q'}, 1);
     ...
+
+Check the [companion apps](https://github.com/eried/flipperzero-mayhem/tree/master/flipper_companion_apps) for the actual code.
