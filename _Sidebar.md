@@ -7,13 +7,12 @@
 * [Features](Features)
 * [Versions](Versions)
 * [Known issues](Known-issues)
-* Flipper faps
+* [Flipper faps](Flipper faps)
    * [Marauder](Marauder)
    * [Camera](Camera)
    * [Motion detection](Motion-detection)
    * [QR code reader](QR-code-reader)
-* Extras
-   * [Videos](Videos)
+* [Troubleshooting](Troubleshooting)
 
 ## Developer Manual
 * [PCB and pinout](PCB-and-pinout)
