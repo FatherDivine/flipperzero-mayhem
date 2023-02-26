@@ -23,7 +23,10 @@ So, setup the environment and compile the code as instructed below. Modify somet
 4. Follow the rest of instructions in Github desktop
 
 ### Prepare for compilation
-1. [Compile your fork](Compile-firmware)
+1. [Compile the ESP32 firmware](Compilation-of-the-firmware)
+2. Upload the firmware
+3. [Compile the Flipper faps](Compilation-of-the-faps)
+4. Upload the faps to your Flipper Zero
 
 ### Work on the code
 
