@@ -12,6 +12,8 @@
    * [Camera](Camera)
    * [Motion detection](Motion-detection)
    * [QR code reader](QR-code-reader)
+* Extras
+   * [Videos](Videos)
 
 ## Developer Manual
 * [PCB and pinout](PCB-and-pinout)
