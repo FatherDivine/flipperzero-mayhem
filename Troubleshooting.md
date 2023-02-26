@@ -1,5 +1,3 @@
-# Troubleshooting
-
 For general troubleshooting, uploading the firmware from Arduino IDE, check this video:
 
 [![Troubleshooting](https://img.youtube.com/vi/Gld-tHnGydA/0.jpg)](https://www.youtube.com/watch?v=Gld-tHnGydA)
