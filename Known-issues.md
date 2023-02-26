@@ -4,7 +4,7 @@ The firmware on the ESP32 switches mode powering the 5V rail in the Flipper Zero
 
 # 3V3 rail
 
-Optionally, you could power the ESP32 via 3V3. This requires to cut the 5V trace in the PCB and put a solder joint on the pad that says 3V3. However, this is not recommended because the ESP32 might use more power than what the Flipper Zero can provide and produce problems. This is a limitation of the Flipper, and cannot be fixed.
+Optionally, you could power the ESP32 via 3V3. This requires [to cut the 5V trace](PCB-and-pinout) in the PCB and put a solder joint on the pad that says 3V3. However, this is not recommended because the ESP32 might use more power than what the Flipper Zero can provide and produce problems. This is a limitation of the Flipper, and cannot be fixed.
 
 Consider this if you really want to use the 3V3 instead of 5V.
 
