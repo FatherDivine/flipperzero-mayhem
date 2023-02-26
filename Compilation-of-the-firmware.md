@@ -7,7 +7,7 @@ You need the libraries listed on [esp32cam_marauder/libraries](https://github.co
 ## Board settings
 ![image](https://user-images.githubusercontent.com/1091420/220386857-d7d21b88-f7d5-4e67-a78f-b91f3ed198b5.png)
 
-For some boards, the _Flash Mode_ should be **DIO**.
+For some boards, the _Flash Mode_ should be **DIO**. If your ESP32 enters a bootloop, change _Flash Mode_ and try again.
 
 # Upload
 
