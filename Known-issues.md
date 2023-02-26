@@ -1,6 +1,6 @@
 # Mode switch
 
-The firmware on the ESP32 switches mode powering the 5V rail in the Flipper Zero, and since when is plugged to USB 5V output is always enabled this might interfere how the apps behave. If you have any issue, please disconnect the board from USB and test again. You can also press reset on the ESP32 while switching to another Flipper Zero fap to switch mode. This could be fixed in the future.
+The firmware on the ESP32 [switches mode](Firmware-mode) powering the 5V rail in the Flipper Zero, and since when is plugged to USB 5V output is always enabled this might interfere how the apps behave. If you have any issue, please disconnect the board from USB and test again. You can also press reset on the ESP32 while switching to another Flipper Zero fap to switch mode. This could be fixed in the future.
 
 # 3V3 rail
 
