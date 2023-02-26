@@ -16,6 +16,7 @@
 
 ## Developer Manual
 * [PCB and pinout](PCB-and-pinout)
+* [Firmware mode](Firmware-mode)
 * Compilation
     * [Firmware](Compilation-of-the-firmware)
     * [Faps](Compilation-of-the-faps)
