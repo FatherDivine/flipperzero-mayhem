@@ -2,5 +2,5 @@
 - NRF24l01 ([module](https://s.click.aliexpress.com/e/_DloIIUp)) (alternative: [w/SMA antenna](https://s.click.aliexpress.com/e/_Dn1V2NT)) ([header](https://s.click.aliexpress.com/e/_DkACOdT))
 - Extra pins for connecting sensors and prototyping: any 3 pin sensor, 3V or 5V with any pin order can be connected easily
 - Sleek & flip-able PCB module for your Flipper Zero ([header](https://s.click.aliexpress.com/e/_DFE1zRb))
-- TPU printed pin header protector (in [master/parts/](https://github.com/eried/flipperzero-mayhem/tree/master/parts))
+- TPU printed pin header protector (stl file in [master/parts/](https://github.com/eried/flipperzero-mayhem/tree/master/parts))
 - Optional custom Micro-SD
