@@ -7,11 +7,12 @@ This will give you access to the following features:
 - Gameboy-camera style (low res 128x64 bmp) with preview on the Flipper Zero
 - QR code reader
 - Motion detection
+- External radio (w/CC1101 module)
 
 Depending on your Flipper Zero firmware, you also need other .fap apps for:
 
-- NRF24 for sniffing and mousejacking
-- Other sensors (i.e. temperature/humidity/distance)
+- NRF24 for sniffing and mousejacking (w/nrf24l01 module)
+- Other sensors (i.e. temperature/humidity/distance/movement/knock/buttons/etc)
 
 Check also:
 
