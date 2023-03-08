@@ -1,6 +1,6 @@
 If you got the kit version, you should solder the headers and other parts. Check how it should look [here](Versions). After that, you need to finish the assembly connecting the modules and the camera:
 
-* Connect the ESP32 and NRF42 following the orientation mark on the pcb
+* Connect the ESP32 and NRF24/CC1101 following the orientation mark on the pcb
 
 * Insert the camera module as show in the [First steps](First-steps#about-the-camera) page
 
