@@ -12,3 +12,11 @@ Custom PCB with a hole for the camera, but because the flash and the pin orienta
 It has a large prototyping section with the ESP32 pins exposed. Behind the NRF24 and ESP32 boards there is pins for sensors connected to the Flipper Zero pins.
 
 ![image](https://user-images.githubusercontent.com/1091420/220085399-e8a4d17a-77aa-4054-8bb2-ebf14ed48291.png)
+
+### Version 1.2 (feb 2023)
+Compact form factor.
+
+### Version 1.3 (march 2023)
+
+### Version 1.3.1 (march 2023)
+Small revision customized for other sellers
