@@ -16,6 +16,9 @@ It has a large prototyping section with the ESP32 pins exposed. Behind the NRF24
 ### Version 1.2 (feb 2023)
 Compact form factor.
 
+![image](https://user-images.githubusercontent.com/1091420/224728619-5c46bb12-c2bb-4d9d-b96c-83c073408183.png)
+
+
 ### Version 1.3 (march 2023)
 
 ### Version 1.3.1 (march 2023)
