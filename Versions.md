@@ -20,6 +20,10 @@ Compact form factor.
 
 
 ### Version 1.3 (march 2023)
+Combination of small tweaks in general, prepared to be customized.
 
-### Version 1.3.1 (march 2023)
-Small revision customized for other sellers
+#### Version 1.3.1 (march 2023)
+
+Different versions for other makers.
+
+![image](https://user-images.githubusercontent.com/1091420/225315312-95e9b587-3bf2-428a-b40c-2dba2d3896b3.png)
