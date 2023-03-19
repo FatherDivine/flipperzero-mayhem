@@ -4,6 +4,8 @@ If you got the kit version, you should solder the headers and other parts. Check
 
 [![Soldering](https://img.youtube.com/vi/TIRnX5cs8pY/0.jpg)](https://www.youtube.com/watch?v=TIRnX5cs8pY)
 
+_**Note:** Since I am lefty, maybe you should flip some of the instructions. Also, the longer leg in the capacitor is the positive._
+
 # Assembled version
 
 You may need to finish the assembly connecting the modules and the camera:
