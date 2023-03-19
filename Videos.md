@@ -1,3 +1,8 @@
+# Soldering
+
+[![Soldering](https://img.youtube.com/vi/TIRnX5cs8pY/0.jpg)](https://www.youtube.com/watch?v=TIRnX5cs8pY)
+
+
 # Assembly
 
 [![Assembly](https://img.youtube.com/vi/iIhf1jgO9IA/0.jpg)](https://www.youtube.com/watch?v=iIhf1jgO9IA)
