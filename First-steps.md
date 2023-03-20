@@ -2,9 +2,11 @@ To set up your Flipper Zero and the module firmware, simply follow [https://flip
 
 This will give you access to the following features:
 
-- The Marauder firmware, which is a portable penetration testing tool created for Wi-Fi and Bluetooth analysis. The firmware also includes Micro-SD functionality, allowing you to dump pcap files
+- The Marauder firmware, which is a portable penetration testing tool created for WiFi and Bluetooth analysis. The firmware also includes Micro-SD functionality, allowing you to dump pcap files
 - Camera (2MP jpeg) and flashlight, accessed through the ESP32CAM Marauder app
 - Gameboy-camera style (low res 128x64 bmp) with preview on the Flipper Zero
+- Nanny cam (remote WiFi AP access to the camera stream)
+- Morse flasher (use the flashlight to transmit morse)
 - QR code reader
 - Motion detection
 - External radio (w/CC1101 module)
