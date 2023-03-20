@@ -12,7 +12,7 @@ You may need to finish the assembly connecting the modules and the camera:
 
 * Connect the ESP32 and NRF24/CC1101 following the orientation mark on the pcb
 
-* Insert the camera module as show in the [First steps](First-steps#about-the-camera) page
+* Insert the camera module as shown in the [First steps](First-steps#about-the-camera) page
 
 For more details, check the video below:
 
