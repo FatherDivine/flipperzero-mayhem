@@ -9,4 +9,4 @@ You need to fork a Flipper Zero firmware for this step. I will use [DarkFlippers
 
 3. Open with VS Code or a similar editor
 
-3. Execute ./fbt faps on a new terminal in VS Code. If the compilation goes OK, the .faps will be on the directory `build\*-firmware-*\.extapps` from the step one
+3. Execute `./fbt faps` on a new terminal in VS Code. If the compilation goes OK, the .faps will be on the directory `build\*-firmware-*\.extapps` from the step one
