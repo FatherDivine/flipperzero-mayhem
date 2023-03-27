@@ -6,7 +6,7 @@ You can easily create your DIY version of the board.
 
 3. Install everything in a [prototyping board](https://shop.flipperzero.one/products/proto-boards)
 
-In this stage, your DIY version should look like the prototype version shown [here](Versions#prototype-dec-2023) or also (test different orientations and directions for your camera, the final design uses the camera tilted 90 degrees to the left):
+In this stage, your DIY version should look like the prototype version shown [here](Versions#prototype-dec-2023) or also the picture below:
 
 <figure>
   <img src="https://user-images.githubusercontent.com/1091420/227952601-ab8f5f6b-980d-42de-b586-66214728c3a0.png"/><br>
@@ -16,4 +16,7 @@ In this stage, your DIY version should look like the prototype version shown [he
 4. Follow [the guide](First-steps) to flash the firmware and FAPs.
 
 5. Enjoy!
+
+
+**Note:** test different orientations and directions for your camera, the final design uses the camera tilted 90 degrees to the left.
 
