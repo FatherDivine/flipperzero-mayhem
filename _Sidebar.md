@@ -16,6 +16,7 @@
 
 ## Developer Manual
 * [PCB and pinout](PCB-and-pinout)
+* [DIY module](DIY-module)
 * [Firmware mode](Firmware-mode)
 * Compilation
     * [Firmware](Compilation-of-the-firmware)
