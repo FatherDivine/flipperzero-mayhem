@@ -12,6 +12,8 @@
    * [Camera](Camera)
    * [Motion detection](Motion-detection)
    * [QR code reader](QR-code-reader)
+   * [Morse flasher](Morse-flasher)
+   * [Nanny cam](Nanny-cam)
 * [Troubleshooting](Troubleshooting)
 
 ## Developer Manual
