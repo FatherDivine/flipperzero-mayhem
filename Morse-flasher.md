@@ -1,0 +1,3 @@
+This is a simple app that uses the flashlight for sending morse messages. You can decode this using software on your phone or computer, or even manually if you have that skill (start with SOS to practice). You will find the links to download the apps available in the [webinstaller](https://flipper.ried.cl/webinstaller/) page.
+
+The idea is to extend this app, for example you could read back the morse using the camera. Check the source code and contribute.
