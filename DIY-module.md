@@ -4,7 +4,7 @@ You can easily create your DIY version of the board.
 
 2. Get all the hardware you need following this [list](Features)
 
-3. Install everything in a [prototyping board](https://shop.flipperzero.one/products/proto-boards)
+3. Install and wire everything in a [prototyping board](https://shop.flipperzero.one/products/proto-boards)
 
 In this stage, your DIY version should look like the prototype version shown [here](Versions#prototype-dec-2023) or also the picture below:
 
