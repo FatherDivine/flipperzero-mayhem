@@ -27,3 +27,9 @@ Combination of small tweaks in general, prepared to be customized.
 Different versions for other makers.
 
 ![image](https://user-images.githubusercontent.com/1091420/225315312-95e9b587-3bf2-428a-b40c-2dba2d3896b3.png)
+
+### Version 1.4 (jun 2023)
+
+Added support for 4 pin sensors and small layout improvement.
+
+![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/543acceb-235b-4687-bfa7-cfa030bbc25a)
