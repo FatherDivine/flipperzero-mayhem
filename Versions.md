@@ -30,6 +30,6 @@ Different versions for other makers.
 
 ### Version 1.4 (jun 2023)
 
-Added support for 4 pin sensors and small layout improvement.
+Added support for 4 pin sensors and small layout improvement. Removed ground planes under the ESP32 CAM and extra module.
 
 ![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/543acceb-235b-4687-bfa7-cfa030bbc25a)
