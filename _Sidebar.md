@@ -18,6 +18,7 @@
 
 ## Developer Manual
 * [PCB and pinout](PCB-and-pinout)
+   * [4 pin sensors](4-pin-sensors)
 * [DIY module](DIY-module)
 * [Firmware mode](Firmware-mode)
 * Compilation
