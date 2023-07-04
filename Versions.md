@@ -40,7 +40,7 @@ Added support for 4 pin sensors and small layout improvement. Enhanced ground pl
 
 ## Version 2
 
-This version has two external modules, the upper and lower pins connect to a different module. It is a similar footprint, but does not replace [Version 1](#version-1)
+This version has two external modules, the upper and lower pins connect to a different module. It is a similar footprint, but does not fully replace [Version 1](#version-1) because it has no place for sensors.
 
 ### Version 2.0 (aug 2023)
 
