@@ -1,3 +1,7 @@
+## Version 1
+
+The first version has one external module.
+
 ### Prototype (dec 2023)
 Using the official protoboards.
 
@@ -33,3 +37,14 @@ Different versions for other makers.
 Added support for 4 pin sensors and small layout improvement. Enhanced ground planes under the ESP32 antenna and NRF24/CC1101 modules.
 
 ![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/543acceb-235b-4687-bfa7-cfa030bbc25a)
+
+## Version 2
+
+This version has two external modules, the upper and lower pins connect to a different module. It is a similar footprint, but does not replace [Version 1](#version-1)
+
+### Version 2.0 (aug 2023)
+
+No more module swap, removed the prototyping area to add a secondary external module header.
+
+![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/66e7bfc8-abd9-4a45-9978-cae3d7bc896e)
+
