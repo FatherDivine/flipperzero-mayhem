@@ -17,6 +17,7 @@ In this stage, your DIY version should look like the prototype version shown [he
 
 5. Enjoy!
 
+________________________
 
 **Note:** test different orientations and directions for your camera, the final design uses the camera tilted 90 degrees to the left.
 
