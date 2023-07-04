@@ -20,3 +20,4 @@ In this stage, your DIY version should look like the prototype version shown [he
 
 **Note:** test different orientations and directions for your camera, the final design uses the camera tilted 90 degrees to the left.
 
+**Note 2:** if you want to connect two external modules, replicate the pins for the ESP32 on another set of pins, but change the external module side as implemented in this [version](Versions#version-2).
