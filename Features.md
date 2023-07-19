@@ -6,7 +6,7 @@
     - CC1101 ([w/coil antenna](https://s.click.aliexpress.com/e/_DDNSVTf)) (alternative: [w/SMA antenna](https://s.click.aliexpress.com/e/_DDKTTDL)) 
 
 - Extra pins for connecting sensors and prototyping: any 3 pin sensor, 3V or 5V with any pin order can be connected easily
-- Sleek & flip-able PCB module for your Flipper Zero ([header](https://s.click.aliexpress.com/e/_DFE1zRb)) ([cap](https://s.click.aliexpress.com/e/_DDcyhpB))
+- Sleek & flip-able PCB module for your Flipper Zero ([header (select reverse)](https://s.click.aliexpress.com/e/_DCUzJXP)) ([capacitor](https://s.click.aliexpress.com/e/_DDcyhpB))
 
 - Other parts:
     - TPU printed pin header protector (check [master/parts/](https://github.com/eried/flipperzero-mayhem/tree/master/parts) for the `.stl` file) ([tpu filament](https://s.click.aliexpress.com/e/_DFKJ3Q5))
