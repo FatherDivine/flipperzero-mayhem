@@ -9,5 +9,6 @@
 - Sleek & flip-able PCB module for your Flipper Zero ([header (reverse)](https://s.click.aliexpress.com/e/_DCUzJXP)) ([capacitor](https://s.click.aliexpress.com/e/_DDcyhpB))
 
 - Other parts:
-    - TPU printed pin header protector (check [master/parts/](https://github.com/eried/flipperzero-mayhem/tree/master/parts) for the `.stl` file) ([tpu filament](https://s.click.aliexpress.com/e/_DFKJ3Q5))
+    - TPU printed pin header protector (check [parts](https://github.com/eried/flipperzero-mayhem/tree/master/parts/practical) for the `.stl` file) ([tpu filament](https://s.click.aliexpress.com/e/_DFKJ3Q5))
+    - PLA printed camera and back protectors (check [parts](https://github.com/eried/flipperzero-mayhem/tree/master/parts/practical) for the `.stl` file) ([pla filament](https://s.click.aliexpress.com/e/_DeIPje3))
     - Custom Micro-SD (tested to perform perfectly on the Flipper Zero and ESP32)
