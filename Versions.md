@@ -1,3 +1,6 @@
+This document works as an hardware changelog. Please note that there are revisions not listed in this section.
+__________
+
 ## Version 1
 
 The first version has one external module.
