@@ -36,7 +36,13 @@ Different versions for other makers.
 
 Added support for 4 pin sensors and small layout improvement. Enhanced ground planes under the ESP32 antenna and NRF24/CC1101 modules.
 
-![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/543acceb-235b-4687-bfa7-cfa030bbc25a)
+<img width="490" src="https://github.com/eried/flipperzero-mayhem/assets/1091420/543acceb-235b-4687-bfa7-cfa030bbc25a">
+
+#### Version 1.4.4 (oct 2023)
+
+Small revision on pcb holes, silkscreen.
+
+<img width="490" src="https://github.com/eried/flipperzero-mayhem/assets/1091420/9b63da8a-bedc-4af0-b115-57e97660b8d5">
 
 ## Version 2
 
@@ -46,5 +52,10 @@ This version has two external modules, the upper and lower pins connect to a dif
 
 No more module swap, removed the prototyping area to add a secondary external module header.
 
-![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/66e7bfc8-abd9-4a45-9978-cae3d7bc896e)
+<img width="490" src="https://github.com/eried/flipperzero-mayhem/assets/1091420/66e7bfc8-abd9-4a45-9978-cae3d7bc896e">
 
+#### Version 2.0.4 (oct 2023)
+
+Small revision on pcb holes, silkscreen and component positions.
+
+<img width="490" src="https://github.com/eried/flipperzero-mayhem/assets/1091420/6a96f557-6f96-41e0-94af-14a138791855">
