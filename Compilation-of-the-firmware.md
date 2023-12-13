@@ -5,7 +5,7 @@ You need to install the board following this [instructions](https://github.com/e
 You need the libraries listed on [esp32cam_marauder/libraries](https://github.com/eried/flipperzero-mayhem/tree/master/esp32cam_marauder/libraries)
 
 ## Board settings
-![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/6066699a-717e-4ec5-8577-3784c048240e)
+![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/63d12d25-1967-49c0-aa0c-6cb51aa5df2e)
 
 For some boards, the _Flash Mode_ should be **DIO**. If your ESP32 enters a bootloop, change _Flash Mode_ and try again.
 
