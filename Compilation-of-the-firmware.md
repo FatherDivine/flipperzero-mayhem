@@ -2,7 +2,7 @@ You need to install the board following this [instructions](https://github.com/e
 
 ## Required libraries
 
-You need the libraries listed on [esp32cam_marauder/libraries](https://github.com/eried/flipperzero-mayhem/tree/master/esp32cam_marauder/libraries)
+You need the libraries listed on [esp32cam_marauder/libraries](https://github.com/eried/flipperzero-mayhem/tree/master/esp32cam_marauder/libraries). Check each library and install them one by one. You can use the Arduino Library manager, just be sure the library is the same.
 
 ## Board settings
 ![image](https://github.com/eried/flipperzero-mayhem/assets/1091420/63d12d25-1967-49c0-aa0c-6cb51aa5df2e)
