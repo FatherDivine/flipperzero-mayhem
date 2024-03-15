@@ -38,3 +38,15 @@ Please disconnect the Flipper USB cable while using the apps as commented in the
 ## The ESP32 does not output any serial messages, nor it is able to be programmed, seems to be dead
 
 You might have an unit with a different pinout, check the [known issues](Known-issues#esp32cam-extra-gnd).
+
+## I can't select the Mayhem v2's CC1101 (external radio) in the Sub-GHz app.
+
+If you are unable to toggle the external radio in the Flipper Zero's Sub-Ghz app (located under "Radio Settings > Module"), try changing the below settings in your "CFW Settings". 
+
+The below is written using RogueMaster firmware, and as such your speed may vary depending upon firmware used. The CFW is "Custom Firmware Settings" and is an extra menu separate of the Flipper Zero's "Settings" menu.
+
+1.) Click "CFW Settings".<br>
+2.) Navigate to "Protocols".<br>
+3.) Make sure "SPI CC1101 Handle" is set to "Default 4". If it says "Extra 7" the external radio will not work! 
+5.) Make sure the "SPI NRF24 Handle" is set to "Extra 7".<br>
+6.) Go back and set External as the Module in the Sub-Ghz App.<br>
